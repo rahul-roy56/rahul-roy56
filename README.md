@@ -2,7 +2,7 @@
 
 🚀 **AI Developer | Machine Learning & Analytics | MLOps Engineer**  
 🎓 Master’s in Applied Machine Intelligence @ Northeastern University (Boston)  
-💡 Passionate about **Healthcare AI, Agentic AI, and ML Deployment**  
+💡 Passionate about **Healthcare AI, Agentic AI, Deep Learning, and ML Deployment**  
 
 ---
 
@@ -18,27 +18,20 @@
 ## 📂 Featured Projects  
 
 🔹 [**Heart Disease Prediction**](https://github.com/rahul-roy56/flask-heart-disease-api)  
-Built an ML classification model (Logistic Regression, Random Forest, XGBoost) with a full pipeline.  
-➡️ Deployed via Flask API + Power BI dashboards | **92% accuracy (AUC: 0.91)**  
+End-to-end ML pipeline with Python & XGBoost achieving **92% accuracy (AUC: 0.91)**. Deployed via Flask API and integrated with Power BI dashboards.  
 
-🔹 [**Customer Churn Prediction**](#)  
-Developed churn model using Scikit-Learn & XGBoost, deployed with Streamlit + AWS AutoML.  
-➡️ Interactive churn-risk dashboard | **88% accuracy**  
+🔹 **Customer Churn Prediction**  
+Built churn classification model with Scikit-learn & XGBoost, deployed as an interactive Streamlit app. Achieved **~88% accuracy** and automated training using AWS SageMaker.  
 
-🔹 [**Healthcare Chatbot (LLM Integration)**](#)  
-Built a LangChain + GPT chatbot in Streamlit to answer patient FAQs.  
-➡️ Automated **80%+ query coverage** from healthcare knowledge base.  
+🔹 **Healthcare Chatbot (LLM + LangChain)**  
+Developed a LangChain + GPT chatbot in Streamlit to answer patient FAQs, covering **80%+ query coverage** and reducing manual support.  
 
-🔹 [**Retail Forecasting**](#)  
-Time-series forecasting with Prophet to optimize inventory.  
-➡️ Improved demand forecast accuracy by **15%**  
+🔹 **Retail Forecasting**  
+Designed a time-series forecasting model using Prophet to optimize retail inventory. Improved demand forecast accuracy by **15% over baseline**.  
 
 ---
 
-## 📊 GitHub Activity  
-*(I’m actively adding more ML projects — stay tuned!)*  
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-roy56&show_icons=true&theme=radical)  
+## 📊 Languages I Work With  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-roy56&layout=compact&theme=radical)  
 
 ---
@@ -49,4 +42,4 @@ Time-series forecasting with Prophet to optimize inventory.
 - 📧 Email: roy.rah@northeastern.edu  
 
 ---
-⭐️ *Check out my repositories for more projects on Machine Learning, MLOps, and AI in Healthcare!*  
+⭐️ *Exploring AI/ML projects in healthcare, analytics, and deployment — check out my repositories for more!*  
