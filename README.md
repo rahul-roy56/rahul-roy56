@@ -29,10 +29,6 @@ Developed a LangChain + GPT chatbot in Streamlit to answer patient FAQs, coverin
 🔹 **Retail Forecasting**  
 Designed a time-series forecasting model using Prophet to optimize retail inventory. Improved demand forecast accuracy by **15% over baseline**.  
 
----
-
-## 📊 Languages I Work With  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-roy56&layout=compact&theme=radical)  
 
 ---
 
